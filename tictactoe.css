@@ -58,12 +58,12 @@ h1{
   margin-top: 2rem; 
 }
 
-#msg{
+#msg1 {
   color:#F4F4ED;
   font-size: 8rem;
 }
 
-.msg-container{
+.msg-container1 {
   height: 110vmin;
   display: flex;
   justify-content: center;
